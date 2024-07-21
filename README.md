@@ -1,0 +1,1 @@
+Projeto básico para por em pratica conhecimentos adquiridos durante um curso de HTML e CSS, nele criei uma pagina de formulário com alguns botões e regras ultilizadas no HTML e CSS mais usados durante o dia a dia.
